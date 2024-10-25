@@ -12,24 +12,23 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+Groovebox is an entertainment device that can do many things at once. It is a dashboard device with many applications such as a Spotify Player, De-Motivating Quotes, Trendy Memes, Kawai GIFs, Weather Updates and so on.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+The need for an all-in-one Dashboard which eliminates the need for a phone in the morning, evening and night. A entertainment hub which stimulates your brain just enough and not anything more.
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Python
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- PyGame, Spotipy, OpenWeather API
+- VSCode
 
 For Hardware:
-- [List main components]
+- RaspberryPi 4B
 - [List specifications]
 - [List tools required]
 
